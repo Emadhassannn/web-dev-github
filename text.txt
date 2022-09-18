@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 This is conflict
  commit!
+=======
+This is again commit!
+>>>>>>> feature
 
 And here we go with commit 
